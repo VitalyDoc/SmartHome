@@ -14,3 +14,6 @@ chmod 777 /srv
 docker run -d -p 8080:80 -v /srv/:/usr/share/nginx/html nginx
 
 https://www.leaderssl.ru/articles/223-apache-ssl-kak-nastroit-ssl-sertifikat-dlya-servera-apache - настройка ssl 
+
+docker-compose
+https://phptoday.ru/post/gotovim-lokalnuyu-sredu-docker-dlya-razrabotki-na-php готовим среду 
