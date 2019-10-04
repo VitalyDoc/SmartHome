@@ -11,3 +11,4 @@ git config --global user.email "cdd777_91@mail.ru"
 git config --global user.name "VitalyDoc"
 git clone https://github.com/VitalyDoc/SmartHome.git
 chmod 777 /srv
+docker run -d -p 8080:80 -v /srv/:/usr/share/nginx/html nginx
