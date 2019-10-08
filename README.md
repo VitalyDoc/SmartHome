@@ -17,3 +17,5 @@ https://www.leaderssl.ru/articles/223-apache-ssl-kak-nastroit-ssl-sertifikat-dly
 
 docker-compose
 https://phptoday.ru/post/gotovim-lokalnuyu-sredu-docker-dlya-razrabotki-na-php готовим среду 
+
+https://html5book.ru/html-tags/
